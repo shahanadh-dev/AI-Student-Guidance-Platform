@@ -1,2 +1,2 @@
-# AI-Student-Guidance-Platform
-AI-powered student guidance and admission automation platform providing personalized career recommendations, admission prediction, and intelligent lead management using Machine Learning, LLMs, and cloud technologies.
+# AI-Powered Student Guidance & Admission Automation Platform
+An intelligent platform designed to simplify higher education guidance through AI-driven career recommendations, admission prediction, college comparison, and automated lead management. The system combines machine learning, recommendation systems, and modern web technologies to improve decision-making for students and educational consultants.
